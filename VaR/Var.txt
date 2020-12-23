@@ -1,0 +1,7 @@
+1. Var
+https://blog.csdn.net/leige_2020/article/details/104405116
+2. FRM python
+https://blog.csdn.net/hzk427/category_9701535.html
+
+=> SciPy模块求解最优化问题
+https://blog.csdn.net/HappyRocking/article/details/92574229
