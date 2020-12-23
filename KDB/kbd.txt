@@ -1,0 +1,15 @@
+1. 参考学习网页
+https://www.iowiki.com/kdbplus/kdbplus_quick_guide.html
+
+2. 如何本地启动kdb连接
+q -p 5042
+https://zhuanlan.zhihu.com/p/73410335
+
+qstudio 
+https://github.com/CharlesSkelton/studio
+
+3. 这个repository 貌似有很多研究关于Q
+https://github.com/AquaQAnalytics
+
+4. Q java
+https://github.com/AquaQAnalytics/q-REST
