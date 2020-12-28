@@ -1,2 +1,4 @@
 1.
 https://zhuanlan.zhihu.com/p/64415994
+
+https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings
