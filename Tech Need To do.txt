@@ -6,7 +6,10 @@ https://github.com/javagrowing/JGrowing
 4. Flink
 5. NIO Netty
 6. Linux shell
-7. Granpha Promethus
+7. Granpha Promethus  -- almost done
+https://songjiayang.gitbooks.io/prometheus/content/visualiztion/grafana.html
+https://blog.csdn.net/NRlovestudy/article/details/94431319
+
     ELK
 8. Elasticsearch
 9. Redis
