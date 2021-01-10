@@ -1,0 +1,18 @@
+1. #!/bin/bash
+https://www.cnblogs.com/liyuanhong/articles/5651949.html
+
+2. $$等含义
+https://www.cnblogs.com/chjbbs/p/6393935.html
+
+3.
+-z 字符串判空
+
+4.
+useradd
+https://www.runoob.com/linux/linux-comm-useradd.html
+
+5.  /dev/null /dev/zero
+https://blog.csdn.net/longerzone/article/details/12948925
+
+6.
+1 标准输出，2 标准错误输出

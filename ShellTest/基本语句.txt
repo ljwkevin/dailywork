@@ -1,0 +1,11 @@
+1.
+tar -czf log-`date +%Y%m%d`.tar.gz /var/log
+
+2.
+df /|awk '/\//{print $4}'
+
+3.
+if [ $disk_size -le 512000 -a $mem_size -le 1024000 ]
+
+4.
+netstat -atn | awk '{print $5}' | awk '{print $1}' | sort -nr | uniq -c
