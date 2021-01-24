@@ -9,3 +9,10 @@ if [ $disk_size -le 512000 -a $mem_size -le 1024000 ]
 
 4.
 netstat -atn | awk '{print $5}' | awk '{print $1}' | sort -nr | uniq -c
+
+
+5.
+awk '/vendor_id/{print $3}' /proc/cpuinfo |uniq
+
+6.
+find $dir -type f -size 0 -exec rm -rf {} \;

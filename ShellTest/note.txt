@@ -16,3 +16,26 @@ https://blog.csdn.net/longerzone/article/details/12948925
 
 6.
 1 标准输出，2 标准错误输出
+
+7.grep
+ -q 不显示任何消息
+https://man.linuxde.net/grep => 这个挺有用
+
+8. EOF 
+https://blog.csdn.net/zongshi1992/article/details/71693045
+
+9.
+expr
+https://www.runoob.com/linux/linux-comm-expr.html
+
+10.
+rsync 
+https://www.ruanyifeng.com/blog/2020/08/rsync.html
+
+11.
+高级常用命令
+https://www.jianshu.com/p/4e184f02c969
+
+12.
+du df 区别
+https://blog.csdn.net/wisgood/article/details/17316663
