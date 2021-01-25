@@ -1,0 +1,4 @@
+1.
+https://github.com/haenerconsulting/basel3cva/blob/master/Presentation/Basel3CVA.pdf
+2. FRTB
+https://github.com/hzhoward/FRTB
