@@ -1,0 +1,11 @@
+1. 装饰器
+https://www.liaoxuefeng.com/wiki/1016959663602400/1017451662295584
+
+2.static method
+https://zhuanlan.zhihu.com/p/28010894
+
+3.抽象方法
+https://blog.csdn.net/sxingming/article/details/52449315
+
+4.正则匹配
+https://zhuanlan.zhihu.com/p/29619457
