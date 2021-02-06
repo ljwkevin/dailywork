@@ -1,0 +1,22 @@
+1. 决策树实战：california房价预测
+https://www.cnblogs.com/yxh-amysear/p/9471513.html
+
+2. matplotlib
+https://zhuanlan.zhihu.com/p/33299777
+https://www.cnblogs.com/DarrenChan/p/10321432.html
+https://my.oschina.net/u/4585819/blog/4647023 => 这个比较全,可以参考
+https://zhuanlan.zhihu.com/p/49035741 =>seaborn ，这个也比较全，可以参考
+https://github.com/gafeng/bokeh-notebooks =>bokeh,感觉没多少人用，但貌似图片比较漂亮
+
+3. 时间序列处理
+https://zhuanlan.zhihu.com/p/67858292
+
+4. 数据分析
+https://zhuanlan.zhihu.com/p/95526617
+
+5.
+statesmodel
+https://zhuanlan.zhihu.com/p/22692029 OLS
+
+6. 统计学习方法
+https://github.com/fengdu78/lihang-code

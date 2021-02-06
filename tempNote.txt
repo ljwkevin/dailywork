@@ -1,0 +1,5 @@
+1. github 搜数据分析有不少量化的东西
+2.
+http://www.aisharelearn.com 可以参考
+3. 数值计算工具NumPy和SciPy，pandas，分析库statsmodels和scikit-learn，和数据可视化库matplotlib
+  pandas是专门为处理表格和混杂数据设计的。而NumPy更适合处理统一的数值数组数据。
