@@ -10,6 +10,7 @@ https://github.com/gafeng/bokeh-notebooks =>bokeh,感觉没多少人用，但貌似图片比较
 
 3. 时间序列处理
 https://zhuanlan.zhihu.com/p/67858292
+https://cloud.tencent.com/developer/article/1461604 => 实例，这个可以看下
 
 4. 数据分析
 https://zhuanlan.zhihu.com/p/95526617
@@ -17,6 +18,12 @@ https://zhuanlan.zhihu.com/p/95526617
 5.
 statesmodel
 https://zhuanlan.zhihu.com/p/22692029 OLS
+https://blog.csdn.net/sinat_26917383/article/details/104369913 =>summary,可以根据这个进行查看
+
+https://m.nowcoder.com/tutorial/10015/39149d6bc7c34b3c8a990e8dadc787b5 statesmodel 简单实例
 
 6. 统计学习方法
 https://github.com/fengdu78/lihang-code
+
+7. python 股票
+https://m.nowcoder.com/tutorial/10015/c424ea0e3c9d410eaeeb1d1b3026d816

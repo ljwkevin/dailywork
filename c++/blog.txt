@@ -3,3 +3,9 @@ https://blog.csdn.net/qq_41649001/article/details/107301079
 
 2.
 https://zhuanlan.zhihu.com/p/266554398
+
+3. Boost C++ ¿â
+https://www.cnblogs.com/lidabo/p/9294874.html
+
+4. c++ knowledge
+https://github.com/Light-City/CPlusPlusThings
