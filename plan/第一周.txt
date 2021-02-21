@@ -1,0 +1,41 @@
+Target
+1. python 能够再熟练一点，包括与java等的差异，实际开发中会遇到的问题等
+   
+2. java要系统性的看一下tech item
+
+3.  看一点basel相关的东西
+
+4. c++ 理清基本开发流程，以及语法基础
+
+5. 实际中要多使用快捷方式，不能只为了看而看
+
+
+Actually Do:
+1. lianxuefeng python 教程
+
+2. JVM
+https://www.bilibili.com/video/BV1qU4y1s7qW?p=14
+Notes:
+1. JVM 类加载器
+    5个区域
+2. 双亲委派机制
+3. Hotspot
+4. PC 寄存器指令地址作用
+    线程切换
+    线程私有作用：记录当前线程的指令执行地址
+5. 栈
+   stackoverflowError  -Xss
+   垃圾回收不会涉及到栈 
+   局部变量是否线程安全-> 具体问题具体分析，内部消亡的就是安全的
+6. 对象分配过程
+    Eden, Eden完了之后，开始Minor GC （STW)
+    第二次Minor GC时，会放到S1,同时S0会清到S1
+    Age达到15后，进入老年代
+    Survival 不会触发gc,如果满了，可以直接晋升到老年代
+    超大对象分配， OOM
+
+https://www.bilibili.com/video/BV1qU4y1s7qW?p=75&spm_id_from=pageDriver
+
+ 
+
+

@@ -27,3 +27,12 @@ https://github.com/fengdu78/lihang-code
 
 7. python 股票
 https://m.nowcoder.com/tutorial/10015/c424ea0e3c9d410eaeeb1d1b3026d816
+
+
+8. python log 处理
+https://www.cnblogs.com/yyds/p/6901864.html
+https://www.cnblogs.com/yyds/p/6897964.html
+
+
+9. pandas numpy 区别
+https://www.jianshu.com/p/32cb09d84487
