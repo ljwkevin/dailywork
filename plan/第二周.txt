@@ -1,0 +1,13 @@
+1. CCAR FRTB + PytHon
+
+2. 英语
+
+3. linux windows常用快捷键
+
+4. redis+ kafka+elasticsearch+zookeeper+flink+k8s+docker
+=> need more time
+
+5. 数据结构
+=》 面试相关的
+
+6. 设计模式等

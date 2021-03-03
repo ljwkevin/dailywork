@@ -33,8 +33,10 @@ Notes:
     Age达到15后，进入老年代
     Survival 不会触发gc,如果满了，可以直接晋升到老年代
     超大对象分配， OOM
-
+    逃逸分析，则可能对象不在堆上进行分配，而在栈上进行直接分配。而减少GC
+    jmap jinfo jprofile jconsole jstates jhat 
 https://www.bilibili.com/video/BV1qU4y1s7qW?p=75&spm_id_from=pageDriver
+
 
  
 

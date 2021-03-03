@@ -1,0 +1,25 @@
+1.
+https://github.com/SaiKrishnaAnudeepJ/Integrated-Credit-Modeling-CCAR-to-CECL/blob/master/PD%20RF%20NN.ipynb
+
+2.
+1. 信用风险建模
+https://blog.csdn.net/weixin_38753422/article/details/108439521
+https://blog.csdn.net/weixin_38753422/article/details/99688286
+https://cloud.tencent.com/developer/article/1388257 
+
+2. python 数据分析
+https://zhuanlan.zhihu.com/p/69869004
+
+
+4.
+https://blog.csdn.net/weixin_38753422/article/details/113855816 =>这个一定要看 
+
+包括衍生品定价、风险模型计量、曲线拟合、模型校正、资产配置和量化交易等等
+
+https://zhuanlan.zhihu.com/p/20647300
+
+https://blog.csdn.net/qtlyx/article/details/71379608
+
+
+https://www.cnblogs.com/xuruilong100/p/8570972.html => quantlib=》一定要看
+https://www.cnblogs.com/xuruilong100/p/8711520.html
