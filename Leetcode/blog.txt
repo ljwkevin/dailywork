@@ -6,3 +6,7 @@ https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings => 
 https://github.com/yuanguangxin/LeetCode java
 
 https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md  =>这个可能可以常看
+
+
+2. 快慢指针方法
+https://www.cnblogs.com/izhoujie/p/13019476.html
