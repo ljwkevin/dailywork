@@ -1,0 +1,83 @@
+1. redis
+    1. redis 5种数据结构底层实现 跳跃表 zset Geo
+       https://juejin.cn/post/6844903936520880135
+      https://www.jianshu.com/p/28138a5371d0 =》这个内容比较多
+      intset hashtable  跳跃表
+    2. redis AOF  RDB
+    3. redis 键删除策略 
+    4. redis 为什么这么快 
+
+    5. redis sentinel 等
+    6. redis 缓存雪崩等
+    7 主从同步如何实现
+    8. redis 单线程
+    9. redis reactor
+      异步阻塞
+   10 redis 选举机制 2n+1 脑裂（增加slave节点）
+    11 redis 如何进行performance test 
+
+
+2. linux epoll/select
+   1. 阻塞 非阻塞  同步 异步
+https://segmentfault.com/a/1190000022088928
+   2. select poll epoll
+但select，poll，epoll本质上都是同步I/O，因为他们都需要在读写事件就绪后自己负责进行读写，也就是说这个读写过程是阻塞的
+在Linux上一般为1024，
+Epoll最大的优点就在于它只管你“活跃”的连接
+https://webcache.googleusercontent.com/search?q=cache:G1VkvaAR3dsJ:https://www.cnblogs.com/aspirant/p/9166944.html+&cd=3&hl=zh-CN&ct=clnk&gl=hk
+使用红黑树而不是数组存放描述符和事件
+
+2. kafka 
+
+3. k8s 
+
+4. docker
+
+5. netty
+
+6. springboot
+
+7. 设计模式
+
+8. 并发 concurrent
+    CAS
+
+9. java
+
+10 操作系统 进程线程
+
+11. flink
+
+12. hbase
+
+13. solr 
+
+14. elasticsearch
+
+15. linux 文件系统
+
+16. 业务相关
+
+17. zookeeper
+
+18. springcloud 
+
+19 分布式 CAP
+
+20 JVM
+
+21 java8 lambda -> java11
+
+22 Mongodb 
+
+23 Spring
+
+24 Akka
+
+25. Camel
+
+26 Mysql Oracle sql相关的
+
+27 Mybatis 
+
+28 maven git linux command 
