@@ -38,6 +38,11 @@ https://webcache.googleusercontent.com/search?q=cache:G1VkvaAR3dsJ:https://www.c
 6. springboot
 
 7. 设计模式
+   https://juejin.cn/post/6844904125721772039#heading-10
+   单例模式几种实现方式： 双重锁检验机制存在的问题在哪里
+
+    单例，工厂，代理,建造者模式(Builder),模板，外观模式，原型模式(浅复制，深复制)，策略模式
+    观察者模式
 
 8. 并发 concurrent
     CAS
@@ -81,3 +86,11 @@ https://webcache.googleusercontent.com/search?q=cache:G1VkvaAR3dsJ:https://www.c
 27 Mybatis 
 
 28 maven git linux command 
+
+29.  
+https://juejin.cn/post/6844904125721772039  =》 好像有不少面试题
+
+30 其余
+ 1. spring 静态代理，动态代理， Cglib AOP 区别
+ 2. ArrayList Vector线程安全性？
+    Vector, SynchronizedList,CopyOnWriteArrayList(适合于读多于写)
