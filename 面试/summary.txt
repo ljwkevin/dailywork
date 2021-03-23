@@ -33,9 +33,16 @@ https://webcache.googleusercontent.com/search?q=cache:G1VkvaAR3dsJ:https://www.c
 
 4. docker
 
-5. netty
+5. netty IO 5种IO 模式
 
 6. springboot
+
+7. spring cloud
+ZooKeeper保证的是CP，Eureka保证的是AP
+服务雪崩效应产生的原因
+
+8. RPC thrift
+
 
 7. 设计模式
    https://juejin.cn/post/6844904125721772039#heading-10
@@ -94,3 +101,5 @@ https://juejin.cn/post/6844904125721772039  =》 好像有不少面试题
  1. spring 静态代理，动态代理， Cglib AOP 区别
  2. ArrayList Vector线程安全性？
     Vector, SynchronizedList,CopyOnWriteArrayList(适合于读多于写)
+  Zookeeper ZAB paxos协议
+  
