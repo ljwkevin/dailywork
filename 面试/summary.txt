@@ -31,7 +31,11 @@ https://webcache.googleusercontent.com/search?q=cache:G1VkvaAR3dsJ:https://www.c
 
 3. k8s 
 
+https://www.jianshu.com/p/2de643caefc1
+
 4. docker
+
+
 
 5. netty IO 5种IO 模式
 
@@ -102,4 +106,6 @@ https://juejin.cn/post/6844904125721772039  =》 好像有不少面试题
  2. ArrayList Vector线程安全性？
     Vector, SynchronizedList,CopyOnWriteArrayList(适合于读多于写)
   Zookeeper ZAB paxos协议
+
+https://www.cnblogs.com/liwei0526vip/p/14587300.html
   
