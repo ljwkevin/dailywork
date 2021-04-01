@@ -1,0 +1,19 @@
+1. kafka 如何保证可靠性，丢消息怎么办
+
+2. 生产者消费者模型
+
+3. zookeeper 选举
+
+4. flink health check（类似）
+
+5. IO 模型
+
+6. RPC /thrift
+
+7. threadlocal 原理
+
+8 进程线程通信机制
+
+9. TCP 怎样保证可靠性，如何保证数据不丢失
+
+10 
