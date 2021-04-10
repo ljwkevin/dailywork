@@ -9,3 +9,9 @@ https://www.cnblogs.com/lidabo/p/9294874.html
 
 4. c++ knowledge
 https://github.com/Light-City/CPlusPlusThings
+
+5. 虚函数 virtual
+https://www.cnblogs.com/weiyouqing/p/7544988.html
+
+6. 指针 引用区别
+https://www.cnblogs.com/skynet/archive/2010/09/22/1832911.html

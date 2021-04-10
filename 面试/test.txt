@@ -16,4 +16,35 @@
 
 9. TCP 怎样保证可靠性，如何保证数据不丢失
 
-10 
+10 直接内存
+
+不受JVM内存管理
+
+   IO 5种模型
+    多路复用：https://blog.csdn.net/helianus/article/details/86534664
+    同步非阻塞
+  
+    NIO channel 双向
+
+    wait sleep
+
+    不同线程池底层数据结构
+ 
+    countdownlatch  sempahor 用法
+
+    notify notifyAll 区别，会引发的问题 死锁 为什么？有可能导致被唤醒的线程也处于wait状态
+
+    生产者 消费者典型模型
+   https://www.jianshu.com/p/ab013a4d5878
+
+   两阶段提交 分布式事务 TCC
+
+   mybatis 二级缓存 1024 mapper 
+
+   jianshu.com/p/d89002b57339  netty 粘包和拆包
+
+   zookeeper 选举机制
+
+   bloomfilter
+
+   HTTPS： SSL TSL

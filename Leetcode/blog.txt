@@ -6,6 +6,7 @@ https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings => 
 https://github.com/yuanguangxin/LeetCode java
 
 https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md  =>这个可能可以常看
+https://github.com/geekxh/hello-algorithm  =》 面试准备
 
 https://github.com/zhangtiansimple/Leetcode
 
@@ -14,3 +15,23 @@ https://www.cnblogs.com/izhoujie/p/13019476.html
 
 
 https://www.cnblogs.com/ysw-go/p/6272551.html 
+
+滑动窗口 暴力破解方法
+https://blog.csdn.net/zangdaiyang1991/article/details/91904596
+
+BST 第k个节点
+https://blog.csdn.net/zangdaiyang1991/article/details/91353021
+
+二叉树层次打印 
+
+之字形打印
+
+二叉树的下个节点
+https://blog.csdn.net/jun8148/article/details/85254652
+
+
+约塞夫环
+https://www.cnblogs.com/yongh/p/9970189.html
+
+数组中的逆序对
+https://www.cnblogs.com/yongh/p/9955977.html

@@ -1,0 +1,11 @@
+1. 全排列实现
+
+2. 红黑树
+旋转和变色的目的是让树保持红黑树的特性
+
+3. hashtable hashmap区别
+   =》 线程安全 Synchronize 
+   treemap: 红黑树 有序
+
+4.
+如何边遍历边移除 Collection 中的元素
