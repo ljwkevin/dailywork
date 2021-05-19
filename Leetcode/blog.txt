@@ -35,3 +35,6 @@ https://www.cnblogs.com/yongh/p/9970189.html
 
 数组中的逆序对
 https://www.cnblogs.com/yongh/p/9955977.html
+
+构建乘积数组
+https://www.cnblogs.com/yongh/p/9971936.html

@@ -7,6 +7,11 @@ https://zhuanlan.zhihu.com/p/266554398
 3. Boost C++ 库
 https://www.cnblogs.com/lidabo/p/9294874.html
 
+boost 线程
+https://blog.csdn.net/jazywoo123/article/details/38385793
+boost 序列化
+https://blog.csdn.net/qq2399431200/article/details/45621921
+
 4. c++ knowledge
 https://github.com/Light-City/CPlusPlusThings
 
@@ -15,3 +20,9 @@ https://www.cnblogs.com/weiyouqing/p/7544988.html
 
 6. 指针 引用区别
 https://www.cnblogs.com/skynet/archive/2010/09/22/1832911.html
+
+7 typedef 
+https://blog.csdn.net/superhoy/article/details/53504472
+
+8 友缘 friend
+
