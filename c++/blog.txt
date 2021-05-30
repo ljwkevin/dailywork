@@ -25,4 +25,54 @@ https://www.cnblogs.com/skynet/archive/2010/09/22/1832911.html
 https://blog.csdn.net/superhoy/article/details/53504472
 
 8 友缘 friend
+http://c.biancheng.net/view/169.html
+
+9. 宏
+https://blog.csdn.net/armlinuxww/article/details/93965786
+
+10 cmake
+https://blog.csdn.net/u013064585/article/details/92702583
+https://blog.csdn.net/yg2496194392/article/details/106600265
+
+11. hpp h 区别
+https://www.cnblogs.com/zhibei/p/12289982.html
+
+12. ifndef 作用
+https://www.cnblogs.com/xuepei/p/4027946.html
+
+13. c++const 放在函数前后的区别
+https://www.cnblogs.com/shaonianpi/p/9906076.html
+
+14 c++ 值传递 指针传递 引用传递
+https://www.cnblogs.com/dingxiaoqiang/p/8012578.html
+
+15 & * 区别（讲的挺好的）
+https://www.cnblogs.com/mr-stn/p/9037773.html
+
+16. c++ explict
+https://www.jianshu.com/p/9def113ccfa5
+
+
+17. c++  __GNUC__
+https://blog.csdn.net/whatday/article/details/101855136
+
+18 makefile makefile.am makefile.in
+https://blog.csdn.net/zong596568821xp/article/details/81134406
+http://www.cppblog.com/noflybird/archive/2009/06/21/88221.html
+
+
+19. c++ external
+https://www.cnblogs.com/chaofn/p/11768081.html
+
+20 c++ dll obj o so 区别 以及动态链接
+https://www.cnblogs.com/hjj-fighting/p/10500527.html
+
+
+21 如何打包 dll 以及调用
+https://blog.csdn.net/v2sking/article/details/84495941 
+
+22 C++ log
+https://www.codeleading.com/article/18082304743/  boost::log
+https://blog.csdn.net/luoweifu/article/details/46494993   log4cxx
+
 

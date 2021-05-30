@@ -1,0 +1,40 @@
+1. C++ log template
+2. leetcode =》 一部分，可以复习。
+=> 上午
+3. data analysis(淘宝上的demo)
+
+泰坦尼克号之灾
+https://www.cnblogs.com/wj-1314/p/12689358.html =>运用了多种机器学习方法
+自行车租赁量预测
+https://www.cnblogs.com/xujunkai/p/12116959.html =>这个比较粗糙，太简略了
+https://blog.csdn.net/wangzi11111111/article/details/88379615 =》这个比较详细一点
+房价预测
+https://www.cnblogs.com/xubin97/p/10467455.html
+股价预测
+电商点击量预估
+CTR 预估
+判定文章作者
+影评情感分析
+电力公司预测电能消耗
+综合能源案例
+电商购买预测
+推荐系统
+人脸表情识别
+猫狗分辨 
+
+=》python 在险价值计算 蒙特卡洛
+
+4. java flink/netty/zookeeper
+
+99个量化投资策略源码模型打包下载  
+https://www.joinquant.com/view/community/detail/9a2e901880f00fa3111d40bf0cb56cac
+顶尖会计事务所风控内训资料限时领取
+73个Excel VBA金融建模常用模型汇总
+132个金融工程常用Excel模型
+
+
+5. python 财报情感分析
+
+
+
+

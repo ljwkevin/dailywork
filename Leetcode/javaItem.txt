@@ -1,0 +1,9 @@
+1.
+
+https://github.com/Snailclimb/JavaGuide
+
+https://github.com/rbmonster/learning-note => 有些系统设计的item
+
+https://github.com/vipstone/java-interview =>一些比较基础的Item
+
+https://github.com/githubofrico/SwordtoOffer =》有点类似leetcode 题目列表的感觉，可以适当看下
