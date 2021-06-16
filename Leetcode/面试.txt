@@ -1,0 +1,13 @@
+1. leetcode 刷题
+https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md
+https://www.cnblogs.com/ysw-go/p/6272551.html 
+
+2. 基础知识刷题
+
+https://github.com/Snailclimb/JavaGuide
+https://juejin.cn/post/6844904125721772039  =》这个系列比较多
+3. 系统设计刷题
+https://github.com/rbmonster/learning-note 
+https://github.com/doocs/advanced-java
+https://github.com/qiurunze123/miaosha =》新发现的
+
