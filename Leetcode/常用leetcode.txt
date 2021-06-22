@@ -1,0 +1,46 @@
+1. 全排列
+https://blog.csdn.net/qq_40697071/article/details/103934011
+
+https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E6%90%9C%E7%B4%A2.md#5-%E6%8E%92%E5%88%97
+
+2. 滑动窗口
+https://blog.csdn.net/zangdaiyang1991/article/details/91904596
+
+3. 生产者消费者问题
+https://www.cnblogs.com/zhengzhaoxiang/p/13976949.html
+
+4. 二叉树每行打印
+   二叉树之字打印
+https://www.cnblogs.com/ysw-go/p/6272551.html
+
+5. 数字字母匹配
+  26 Z这种
+https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92.md#3-%E5%88%86%E5%89%B2%E6%95%B4%E6%95%B0%E6%9E%84%E6%88%90%E5%AD%97%E6%AF%8D%E5%AD%97%E7%AC%A6%E4%B8%B2
+
+6. 最长子序列
+https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E5%8F%8C%E6%8C%87%E9%92%88.md
+
+
+7. 括号匹配
+https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97.md
+
+8最长公共子序列
+https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92.md#1-%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97
+
+9 快排
+https://blog.csdn.net/We_chuan/article/details/90668468
+
+10. 最短单词路径
+https://leetcode-cn.com/problems/word-ladder/comments/
+
+11. IP 地址划分
+https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E6%90%9C%E7%B4%A2.md
+
+12 表达式加括号
+https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E5%88%86%E6%B2%BB.md
+
+13 二分法
+
+https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E6%90%9C%E7%B4%A2.md
+
+14 二叉树的前中序
